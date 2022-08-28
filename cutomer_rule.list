@@ -1,0 +1,117 @@
+ #epicgame中国大陆地区游戏下载
+DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
+ #......
+ #playstation
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,status.playstation.com
+DOMAIN-SUFFIX,ps5.np.playstation.net
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+ #......
+ #battle.net战网中国大陆地区下载
+DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn
+DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn
+ #......
+ #battle.net战网非中国大陆
+DOMAIN-SUFFIX,level3.blizzard.com
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+DOMAIN-SUFFIX,kr.cdn.blizzard.com
+DOMAIN-SUFFIX,us.cdn.blizzard.com
+DOMAIN-SUFFIX,eu.cdn.blizzard.com
+ #......
+ #GOG非中国大陆游戏下载
+DOMAIN-SUFFIX,cdn.gog.com
+DOMAIN-SUFFIX,galaxy-client-update.gog.com
+ #......
+ #GameDownload
+DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN,origin-a.akamaihd.net
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
+DOMAIN,download.cdp.bethesda.net
+DOMAIN,download.hikarifield.co.jp
+DOMAIN,client.hikarifield.co.jp
+DOMAIN,download.epicgames.com
+DOMAIN,download2.epicgames.com
+DOMAIN,download3.epicgames.com
+DOMAIN,download4.epicgames.com
+DOMAIN,epicgames-download1.akamaized.net
+ #......
+ #xbox
+DOMAIN,dlassets-ssl.xboxlive.com
+DOMAIN,beige.xboxservices.com
+DOMAIN,www.xboxab.com
+DOMAIN,chat.xboxlive.com
+DOMAIN,notificationinbox.xboxlive.com
+DOMAIN,peoplehub.xboxlive.com
+DOMAIN,arc.msn.com
+DOMAIN,xccs.xboxlive.com
+DOMAIN,titlehub.xboxlive.com
+DOMAIN,xblmessaging.xboxlive.com
+DOMAIN,v10.events.data.microsoft.com
+ #- DOMAIN,activity.windows.com
+DOMAIN,gaminglppc.azurefd.net
+DOMAIN,store-images.s-microsoft.com
+DOMAIN,eplists.xboxlive.com
+DOMAIN,userpresence.xboxlive.com
+DOMAIN,peoplehub.xboxlive.com
+DOMAIN,privacy.xboxlive.com
+DOMAIN,avty.xboxlive.com
+DOMAIN,images-eds-ssl.xboxlive.com
+DOMAIN,dlassets-ssl.xboxlive.com
+DOMAIN,privacy.xboxlive.com
+DOMAIN,clubhub.xboxlive.com
+DOMAIN,news.xbox.com
+DOMAIN,v20.events.data.microsoft.com
+DOMAIN,fe3cr.delivery.mp.microsoft.com
+DOMAIN,catalog.gamepass.com
+DOMAIN,packagespc.xboxlive.com
+DOMAIN,xvcf1.xboxlive.com
+DOMAIN,xvcf2.xboxlive.com
+DOMAIN,assets1.xboxlive.com
+DOMAIN,dlassets.xboxlive.com
+DOMAIN,dl.delivery.mp.microsoft.com
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
+DOMAIN,assets2.xboxlive.com
+ #......
+ #XunleiDownload
+DOMAIN-SUFFIX,00cdn.com
+DOMAIN-SUFFIX,88cdn.com
+DOMAIN-SUFFIX,kanimg.com
+DOMAIN-SUFFIX,kankan.com
+DOMAIN-SUFFIX,p2cdn.com
+DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,thundercdn.com
+DOMAIN-SUFFIX,xunlei.com
+ #......
+ #MacDownload
+PROCESS-NAME,aria2c.exe
+PROCESS-NAME,fdm.exe
+PROCESS-NAME,Folx.exe
+PROCESS-NAME,NetTransport.exe
+PROCESS-NAME,Thunder.exe
+PROCESS-NAME,Transmission.exe
+PROCESS-NAME,uTorrent.exe
+PROCESS-NAME,WebTorrent.exe
+PROCESS-NAME,WebTorrent
+ #......
+ #BT
+DOMAIN-SUFFIX,smtp
+DOMAIN-KEYWORD,aria2
+ #......
+  #迅雷下载
+PROCESS-NAME,DownloadService.exe
+ #......
+  #腾讯微云
+PROCESS-NAME,Weiyun.exe
+ #......
+  #Baidu网盘
+PROCESS-NAME,baidunetdisk.exe
+ #......
+ #github
+DOMAIN-SUFFIX,raw.githubusercontent.com
+ #......
