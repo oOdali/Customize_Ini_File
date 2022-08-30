@@ -1,15 +1,6 @@
  #epicgame中国大陆地区游戏下载
 DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
  #......
- #playstation
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,status.playstation.com
-DOMAIN-SUFFIX,ps5.np.playstation.net
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
- #......
  #battle.net战网中国大陆地区下载
 DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn
 DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn
@@ -40,43 +31,6 @@ DOMAIN,download2.epicgames.com
 DOMAIN,download3.epicgames.com
 DOMAIN,download4.epicgames.com
 DOMAIN,epicgames-download1.akamaized.net
- #......
- #xbox
-DOMAIN,dlassets-ssl.xboxlive.com
-DOMAIN,beige.xboxservices.com
-DOMAIN,www.xboxab.com
-DOMAIN,chat.xboxlive.com
-DOMAIN,notificationinbox.xboxlive.com
-DOMAIN,peoplehub.xboxlive.com
-DOMAIN,arc.msn.com
-DOMAIN,xccs.xboxlive.com
-DOMAIN,titlehub.xboxlive.com
-DOMAIN,xblmessaging.xboxlive.com
-DOMAIN,v10.events.data.microsoft.com
- #- DOMAIN,activity.windows.com
-DOMAIN,gaminglppc.azurefd.net
-DOMAIN,store-images.s-microsoft.com
-DOMAIN,eplists.xboxlive.com
-DOMAIN,userpresence.xboxlive.com
-DOMAIN,peoplehub.xboxlive.com
-DOMAIN,privacy.xboxlive.com
-DOMAIN,avty.xboxlive.com
-DOMAIN,images-eds-ssl.xboxlive.com
-DOMAIN,dlassets-ssl.xboxlive.com
-DOMAIN,privacy.xboxlive.com
-DOMAIN,clubhub.xboxlive.com
-DOMAIN,news.xbox.com
-DOMAIN,v20.events.data.microsoft.com
-DOMAIN,fe3cr.delivery.mp.microsoft.com
-DOMAIN,catalog.gamepass.com
-DOMAIN,packagespc.xboxlive.com
-DOMAIN,xvcf1.xboxlive.com
-DOMAIN,xvcf2.xboxlive.com
-DOMAIN,assets1.xboxlive.com
-DOMAIN,dlassets.xboxlive.com
-DOMAIN,dl.delivery.mp.microsoft.com
-DOMAIN,tlu.dl.delivery.mp.microsoft.com
-DOMAIN,assets2.xboxlive.com
  #......
  #XunleiDownload
 DOMAIN-SUFFIX,00cdn.com
@@ -112,6 +66,55 @@ PROCESS-NAME,Weiyun.exe
   #Baidu网盘
 PROCESS-NAME,baidunetdisk.exe
  #......
- #github
-DOMAIN-SUFFIX,raw.githubusercontent.com
- #......
+ #steam_directdownload
+ # https://ipinfo.io/AS32590#block-ranges
+IP-CIDR,103.10.124.0/24,no-resolve
+IP-CIDR,103.10.125.0/24,no-resolve
+IP-CIDR,103.28.54.0/23,no-resolve
+IP-CIDR,103.28.54.0/24,no-resolve
+IP-CIDR,146.66.152.0/24,no-resolve
+IP-CIDR,146.66.155.0/24,no-resolve
+IP-CIDR,153.254.86.0/24,no-resolve
+IP-CIDR,155.133.224.0/23,no-resolve
+IP-CIDR,155.133.226.0/24,no-resolve
+IP-CIDR,155.133.227.0/24,no-resolve
+IP-CIDR,155.133.230.0/24,no-resolve
+IP-CIDR,155.133.232.0/24,no-resolve
+IP-CIDR,155.133.233.0/24,no-resolve
+IP-CIDR,155.133.234.0/24,no-resolve
+IP-CIDR,155.133.238.0/24,no-resolve
+IP-CIDR,155.133.239.0/24,no-resolve
+IP-CIDR,155.133.242.0/23,no-resolve
+IP-CIDR,155.133.245.0/24,no-resolve
+IP-CIDR,155.133.246.0/24,no-resolve
+IP-CIDR,155.133.248.0/24,no-resolve
+IP-CIDR,155.133.249.0/24,no-resolve
+IP-CIDR,155.133.250.0/24,no-resolve
+IP-CIDR,155.133.252.0/24,no-resolve
+IP-CIDR,155.133.253.0/24,no-resolve
+IP-CIDR,155.133.254.0/24,no-resolve
+IP-CIDR,155.133.255.0/24,no-resolve
+IP-CIDR,162.254.192.0/24,no-resolve
+IP-CIDR,162.254.193.0/24,no-resolve
+IP-CIDR,162.254.194.0/23,no-resolve
+IP-CIDR,162.254.195.0/24,no-resolve
+IP-CIDR,162.254.196.0/24,no-resolve
+IP-CIDR,162.254.197.0/24,no-resolve
+IP-CIDR,162.254.198.0/24,no-resolve
+IP-CIDR,162.254.199.0/24,no-resolve
+IP-CIDR,185.25.180.0/23,no-resolve
+IP-CIDR,185.25.182.0/24,no-resolve
+IP-CIDR,185.25.183.0/24,no-resolve
+IP-CIDR,190.217.33.0/24,no-resolve
+IP-CIDR,192.69.96.0/22,no-resolve
+IP-CIDR,205.185.194.0/24,no-resolve
+IP-CIDR,205.196.6.0/24,no-resolve
+IP-CIDR,208.64.200.0/24,no-resolve
+IP-CIDR,208.64.201.0/24,no-resolve
+IP-CIDR,208.64.202.0/24,no-resolve
+IP-CIDR,208.64.203.0/24,no-resolve
+IP-CIDR,208.78.164.0/22,no-resolve
+IP-CIDR,45.121.184.0/23,no-resolve
+#Rockstar_Download
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+ 
