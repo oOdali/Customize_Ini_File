@@ -1,4 +1,4 @@
-  #amazonIp
+#amazonIp
 IP-CIDR,3.0.0.0/15,no-resolve
 IP-CIDR,3.2.0.0/24,no-resolve
 IP-CIDR,3.2.2.0/23,no-resolve
