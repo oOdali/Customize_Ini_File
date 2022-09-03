@@ -1356,6 +1356,7 @@ IP-CIDR,223.71.71.96/27,no-resolve
 IP-CIDR,223.71.71.128/25,no-resolve
  #......
 DOMAIN-SUFFIX,www.v2rayssr.com
+DOMAIN-SUFFIX,sketch.pixiv.net
 DOMAIN-SUFFIX,raw.githubcontent.com
 DOMAIN-SUFFIX,status.playstation.com
 DOMAIN-SUFFIX,ps5.np.playstation.net
