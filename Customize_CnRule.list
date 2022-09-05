@@ -1,5 +1,5 @@
-PROCESS-NAME,crash_reporter.exe
-PROCESS-NAME,wwzRetail.exe
+#PROCESS-NAME,crash_reporter.exe
+#PROCESS-NAME,wwzRetail.exe
 #epicgame中国大陆地区游戏下载
 DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
  #......
